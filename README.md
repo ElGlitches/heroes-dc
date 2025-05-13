@@ -2,9 +2,4 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-
-## Notas
-Pueden hacer lo que quieran...
-
-### ACT desde GITHUB
-se actualiza desde la pagina
+## estos cambios son nuevos
